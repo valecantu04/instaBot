@@ -1,0 +1,207 @@
+1544137094767	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.yhubAbANK5kB"
+1544137097411	Marionette	INFO	Listening on port 58344
+1544137097444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544138083545	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.5h06I60aBfos"
+1544138086192	Marionette	INFO	Listening on port 58560
+1544138086259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+1544138198098	Marionette	INFO	Stopped listening on port 58344
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/target.js, line 532: TypeError: this._tab.ownerDocument.defaultView is null
+1544138264867	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.WT5x1vnB3raN"
+1544138267101	Marionette	INFO	Listening on port 58653
+1544138267149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544138317252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.xJukpmmtxjzH"
+1544138319545	Marionette	INFO	Listening on port 58715
+1544138319598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+1544138477600	Marionette	INFO	Stopped listening on port 58715
+1544138486696	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.XYgNtX0GDFhM"
+1544138489294	Marionette	INFO	Listening on port 58825
+1544138489395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+1544138510633	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.u3a39KRjqUHU"
+1544138513009	Marionette	INFO	Listening on port 58891
+1544138513093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+1544138570670	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.so9QsGjlkN9k"
+1544138573799	Marionette	INFO	Listening on port 58960
+1544138573895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+1544138637180	Marionette	INFO	Stopped listening on port 58560
+1544138639806	Marionette	INFO	Stopped listening on port 58653
+1544138641998	Marionette	INFO	Stopped listening on port 58825
+1544138651952	Marionette	INFO	Stopped listening on port 58891
+1544138653991	Marionette	INFO	Stopped listening on port 58960
+1544138664725	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.xrmLgEejOgzT"
+1544138666985	Marionette	INFO	Listening on port 59050
+1544138667110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+1544138691818	Marionette	INFO	Stopped listening on port 59050
+1544139561194	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.4N8BXoQpv3Mh"
+1544139563497	Marionette	INFO	Listening on port 59238
+1544139563575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544145329891	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.HjiJsX97vg2n"
+1544145332200	Marionette	INFO	Listening on port 59573
+1544145332277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+1544145344200	Marionette	INFO	Stopped listening on port 59573
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1544145503532	Marionette	INFO	Stopped listening on port 59238
+1544145507473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.kitdSZbmuFdE"
+1544145509957	Marionette	INFO	Listening on port 59653
+1544145510063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+1544145519303	Marionette	INFO	Stopped listening on port 59653
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000BB,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1544145708517	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.kbfFu9PmvAQU"
+1544145710721	Marionette	INFO	Listening on port 59732
+1544145710780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+1544145719774	Marionette	INFO	Stopped listening on port 59732
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1544145987022	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.cgMSGyakHkU4"
+1544145989254	Marionette	INFO	Listening on port 59839
+1544145989295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
