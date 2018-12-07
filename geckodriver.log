@@ -205,3 +205,45 @@ JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommon
 JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
 JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
 JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+1544148175340	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.scFC51jFRTkN"
+1544148177878	Marionette	INFO	Listening on port 60096
+1544148177924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+1544148819680	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/n8/y3lc856x4nz1v89n41q294gh0000gn/T/rust_mozprofile.LWTAULgjf4Bd"
+1544148822292	Marionette	INFO	Listening on port 60189
+1544148822379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js, line 1: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
+JavaScript warning: https://www.instagram.com/static/bundles/base/ConsumerCommons.js/6298914d0242.js?control=1, line 1: unreachable code after return statement
