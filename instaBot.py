@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
 import time
 import random
 import sys
@@ -85,25 +86,66 @@ class instagramBot:
                     time.sleep(2)
                 unique_photos -= 1
 
+'''Posting a comment doesn't work right now.
+    """write comment in text area using lambda function"""
+    def write_comment(self, comment_text):
+        try:
+            comment_button = lambda: self.driver.find_element_by_link_text('Comment')
+            comment_button().click()
+        except NoSuchElementException:
+            pass
+
+        try:
+            comment_box_elem = lambda: self.driver.find_element_by_xpath("//textarea[@aria-label='Add a comment…']")
+            comment_box_elem().send_keys('')
+            comment_box_elem().clear()
+            for letter in comment_text:
+                comment_box_elem().send_keys(letter)
+                time.sleep((random.randint(1, 7) / 30))
+
+            return comment_box_elem
+
+        except StaleElementReferenceException and NoSuchElementException as e:
+            print(e)
+            return False
+
+    """actually post a comment"""
+    def post_comment(self, comment_text):
+        time.sleep(random.randint(1,5))
+
+        comment_box_elem = self.write_comment(comment_text)
+        if comment_text in self.driver.page_source:
+            comment_box_elem().send_keys(Keys.ENTER)
+            try:
+                post_button = lambda: self.driver.find_element_by_xpath("//button[@type='Post']")
+                post_button().click()
+                print('clicked post button')
+            except NoSuchElementException:
+                pass
+
+        time.sleep(random.randint(4, 6))
+        self.driver.refresh()
+        if comment_text in self.driver.page_source:
+            return True
+        return False
+        '''
+
 username = "toppostsofreddit"
 password = "toppost123"
 
 ig = instagramBot(username, password)
 ig.login()
 
-hashtags = ['amazing', 'beautiful', 'adventure', 'photography', 'nofilter',
-            'newyork', 'artsy', 'alumni', 'lion', 'best', 'fun', 'happy',
-            'art', 'funny', 'me', 'followme', 'follow', 'cinematography', 'cinema',
-            'love', 'instagood', 'instagood', 'followme', 'fashion', 'sun', 'scruffy',
-            'street', 'canon', 'beauty', 'studio', 'pretty', 'vintage', 'prank', 'meme', 'memes']
+hashtags = ['funny', 'followme', 'follow','instagood', 'instagood', 'followme', 'fashion', 'prank', 'meme', 'memes']
 
 while True:
     try:
         # Choose a random tag from the list of tags
         tag = random.choice(hashtags)
         ig.likePic(tag)
+        #ig.post_comment('I love this, this is so funny!')
     except Exception:
         ig.closeBrowser()
-        time.sleep(60)
+        time.sleep(6)
         ig = instagramBot(username, password)
         ig.login()
